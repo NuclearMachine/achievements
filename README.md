@@ -1,4 +1,4 @@
-# achievementss
+# achievementsss
 A collection of shell scripts to achieve 100% of API-accessible Github achievements
 
 ## Prerequisites
